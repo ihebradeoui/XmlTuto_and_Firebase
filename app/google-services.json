@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "771605880156",
+    "project_id": "formationandroid-59a7c",
+    "storage_bucket": "formationandroid-59a7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771605880156:android:49742937f4a239e08d3599",
+        "android_client_info": {
+          "package_name": "iheb.raddaoui.xmltuto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771605880156-ck7r5p53d3s25vlt5b3fvkghapvqdhpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhYLVCDIq99VRpfbu96CTWP6l_UjZaUyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771605880156-ck7r5p53d3s25vlt5b3fvkghapvqdhpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
